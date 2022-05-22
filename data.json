@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Monitor",
+    "description": "A monitor is an electronic visual computer display that includes a screen, circuitry and the case in which that circuitry is enclosed. Older computer monitors made use of cathode ray tubes (CRT), which made them large, heavy and inefficient.",
+    "price": 100,
+    "minimumQuantity": 5,
+    "availableQuantity": 300,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/monitor.jpg"
+  },
+  {
+    "name": "Computer Casing",
+    "description": "A computer case, also known as a computer chassis, is the enclosure that contains most of the components of a personal computer (usually excluding the display, keyboard, and mouse).",
+    "price": 27,
+    "minimumQuantity": 10,
+    "availableQuantity": 480,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/computer-casing.jpg"
+  },
+  {
+    "name": "Motherboard",
+    "description": "The motherboard is the backbone that ties the computer's components together at one spot and allows them to talk to each other. Without it, none of the computer pieces, such as the CPU, GPU, or hard drive, could interact. Total motherboard functionality is necessary for a computer to work well.",
+    "price": 48,
+    "minimumQuantity": 6,
+    "availableQuantity": 120,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/motherboard.jpg"
+  },
+  {
+    "name": "Power Supply",
+    "description": "Power supply is a device providing power to electronic equipment and sometimes designated A, B, or C according to its function of heating vacuum tube cathodes, causing a flow of electron current in plate circuits, or applying a direct voltage in grid circuits.",
+    "price": 29,
+    "minimumQuantity": 7,
+    "availableQuantity": 200,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/power-supply.jpg"
+  },
+  {
+    "name": "Processor",
+    "description": "A processor (CPU) is the logic circuitry that responds to and processes the basic instructions that drive a computer. The CPU is seen as the main and most crucial integrated circuitry (IC) chip in a computer, as it is responsible for interpreting most of computers commands.",
+    "price": 70,
+    "minimumQuantity": 5,
+    "availableQuantity": 140,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/processor.jpg"
+  },
+  {
+    "name": "Hard Disk",
+    "description": "Hard disk, also called hard disk drive or hard drive, magnetic storage medium for a computer. Hard disks are flat circular plates made of aluminum or glass and coated with a magnetic material. Hard disks for personal computers can store terabytes (trillions of bytes) of information.",
+    "price": 17,
+    "minimumQuantity": 9,
+    "availableQuantity": 135,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/hard-disk.jpg"
+  },
+  {
+    "name": "RAM",
+    "description": "RAM is short for “random access memory” and while it might sound mysterious, RAM is one of the most fundamental elements of computing. RAM is the super-fast and temporary data storage space that a computer needs to access right now or in the next few moments.",
+    "price": 18,
+    "minimumQuantity": 12,
+    "availableQuantity": 450,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/ram.jpg"
+  },
+  {
+    "name": "Sound Card",
+    "description": "A sound card (also known as an audio card) is an internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs. The term sound card is also applied to external audio interfaces used for professional audio applications.",
+    "price": 23,
+    "minimumQuantity": 10,
+    "availableQuantity": 270,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/sound-card.jpg"
+  },
+  {
+    "name": "CPU Cooler",
+    "description": "A CPU cooler is device designed to draw heat away from the system CPU and other components in the enclosure. Using a CPU cooler to lower CPU temperatures improves efficiency and stability of the system. Adding a cooling device, however, can increase the overall noise level of the system.",
+    "price": 8,
+    "minimumQuantity": 20,
+    "availableQuantity": 320,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/cpu-cooler.jpg"
+  },
+  {
+    "name": "DVD Writer",
+    "description": "The DVD Writer/CD Writer is a multipurpose rewrite able drive that can read audio, data, and video files and can record, or write, in both CD and DVD formats. This DVD Writer/CD Writer drive enables you to: Create custom audio, data, and video files that can be recorded onto CDs or DVDs.",
+    "price": 10,
+    "minimumQuantity": 7,
+    "availableQuantity": 190,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/dvd-writer.jpg"
+  },
+  {
+    "name": "Mouse",
+    "description": "A mouse is a small device that a computer user pushes across a desk surface in order to point to a place on a display screen and to select one or more actions to take from that position. The mouse first became a widely-used computer tool when Apple Computer made it a standard part of the Apple Macintosh.",
+    "price": 5,
+    "minimumQuantity": 20,
+    "availableQuantity": 700,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/mouse.jpg"
+  },
+  {
+    "name": "Graphics Card",
+    "description": "A graphics card (also called a video card, display card, graphics adapter, VGA card/VGA, video adapter, or display adapter) is an expansion card which generates a feed of output images to a display device (such as a computer monitor).",
+    "price": 35,
+    "minimumQuantity": 6,
+    "availableQuantity": 240,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/graphics-card.jpg"
+  },
+  {
+    "name": "SSD",
+    "description": "A solid-state drive (SSD) is a new generation of storage device used in computers. SSDs use flash-based memory, which is much faster than a traditional mechanical hard disk. Upgrading to an SSD is one of the best ways to speed up your computer.",
+    "price": 30,
+    "minimumQuantity": 6,
+    "availableQuantity": 180,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/ssd.jpg"
+  },
+  {
+    "name": "Keyboard",
+    "description": "A keyboard is a peripheral device that enables a user to input text into a computer or any other electronic machinery. A keyboard is an input device and is the most basic way for the user to communicate with a computer.",
+    "price": 7,
+    "minimumQuantity": 15,
+    "availableQuantity": 500,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images4/main/images4/keyboard.jpg"
+  }
+]
